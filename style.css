@@ -1,0 +1,17 @@
+body
+{
+    background-color: blueviolet;
+}
+#ToDo
+{
+    padding: 25px;
+    background-color: aqua;
+    border-radius: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Special Elite', cursive;
+    color: aliceblue;
+}
+#images
+{
+    border-radius: 50px;
+}
